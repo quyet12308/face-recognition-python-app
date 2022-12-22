@@ -11,3 +11,5 @@ khi dự án đã khởi chạy nhấn nút recognizer để bắt đầu nhận
 dự án có thể không đc thông minh nên độ chính xác còn phụ thuộc khá nhiều vào các yếu tố khác nên tất nhiên sẽ xuất hiện một số sai sót như cùng một người nhưng máy không nhận diện được.
 
 ảnh tham khảo dduocj đặt trong thư mục images
+
+cài các thư viện cần thiết pip install -r text.txt
